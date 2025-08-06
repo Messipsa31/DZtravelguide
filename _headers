@@ -3,3 +3,4 @@
   X-Content-Type-Options: nosniff
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token
+  Cache-Control: no-cache
