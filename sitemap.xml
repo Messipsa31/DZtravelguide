@@ -3,33 +3,33 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://dztravelguide.com/index.html</loc>
+    <loc>https://dztravelguide.netilfy.app/index.html</loc>
     <lastmod>2025-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://dztravelguide.com/wilaya.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/wilaya.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
    <url>
-    <loc>https://dztravelguide.com/places.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/places.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
-    <loc>https://dztravelguide.com/activities.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/activities.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 
   <url>
-    <loc>https://dztravelguide.com/nature.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/nature.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -37,25 +37,25 @@
 
 
   <url>
-    <loc>https://dztravelguide.com/food.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/food.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://dztravelguide.com/culture.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/culture.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://dztravelguide.com/unesco.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/unesco.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://dztravelguide.com/tips.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/tips.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -63,7 +63,7 @@
 
 
   <url>
-    <loc>https://dztravelguide.com/about.html</loc>
+    <loc>https://dztravelguide.netilfy.ap/about.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
