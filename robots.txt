@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: https://dztravelguide.com/sitemap.xml
+Sitemap: https://dztravelguide.netlify.app/sitemap.xml
